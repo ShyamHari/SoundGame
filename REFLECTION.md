@@ -1,8 +1,8 @@
-# Reflection# 
+# Reflection
 
-#### Shyam Hari####
+#### Shyam Hari
 
-#### December 16th 2016####
+#### December 16th 2016
 
 ​	During the course of the project I truly thought that it would be tougher than it was. Constantly worried about the standard that I had to produce, it created "Coders Block" in my head and it was hard to get any ideas flowing. Eventually once I was able to find an idea for my game, it got even worse. I constantly doubted whether I would be able to code it or not. It would've made for a much more original game if I was able to pull it off. The final game design was much simpler and it was essentially trying to avoid mud coming at the character. Midway through the game, I realized I needed object detection. Since objects were completely new to me, including the whole aspect of p5.js I had to sit through a couple of Daniel Shiffman videos which took up time from other subjects. It took me about two days to even implement objects into my code, and even after all that, I did not understand objects 100%. 
 
